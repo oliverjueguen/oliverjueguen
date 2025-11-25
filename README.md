@@ -36,5 +36,5 @@ I enjoy working with cloud services, networking basics, containers, and building
 
 ## 📫 Contact
 
-- GitHub: **@OliverJueguen**
+- GitHub: **@oliverjueguen**
 - email: **oliverjueguen@gmail.com**
