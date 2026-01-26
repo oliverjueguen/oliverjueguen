@@ -1,28 +1,44 @@
 # Oliver Jueguen
 
-## Cybersecurity | Pentesting Path | Hands-on Projects
+## Cybersecurity | Systems & Automation | Pentesting Path
 
-I am currently focused on building a solid foundation in **cybersecurity with a strong emphasis on penetration testing**, combining structured training with hands-on personal projects.
+I come from a **systems-first background**, with solid hands-on experience in **Linux and Windows environments**, virtualization, and containerization.  
+I am currently focusing on **cybersecurity**, building offensive security skills on top of a strong systems foundation.
 
-My approach is practical and system-oriented: I learn by building, breaking, and automating real environments rather than relying on theory alone.
+My learning style is practical: I work directly with operating systems, infrastructure, and automation to understand how systems behave, fail, and can be exploited.
 
 ---
 
 ## What I am doing now
 
 🎓 **Master in Cybersecurity & AI – Evolve Academy**  
-Pentesting-oriented training covering:
+Pentesting-oriented training focused on:
 
-- Linux and Windows systems
+- Linux and Windows internals
 - Networking fundamentals
 - Vulnerability analysis
-- Web and system exploitation basics
-- Enumeration and attack methodology
+- Enumeration and exploitation basics
+- Security methodology and tooling
 - Scripting and automation for security tasks
 
 This training path is aligned with the **eJPTv2 (eLearnSecurity Junior Penetration Tester)** certification as the final objective.
 
-Alongside the master, I maintain a personal lab where I practice offensive security techniques in controlled environments.
+Alongside the master, I actively work on system-level labs, virtualized environments, and containerized services to strengthen my understanding of real-world infrastructure.
+
+---
+
+## Systems & Technical Background
+
+I am particularly comfortable working with:
+
+- Linux systems (configuration, services, permissions, troubleshooting)
+- Windows systems (installation, optimization, hardening basics)
+- Virtualization and lab environments
+- Docker and containerized services
+- OS-level experimentation and recovery
+- Automation and scripting for system tasks
+
+I focus on understanding **how systems are built and operated**, not just how to attack them.
 
 ---
 
@@ -34,10 +50,10 @@ A **Node.js** bot that monitors the **National Vulnerability Database (NVD)** an
 **Project goals**
 - Automate vulnerability awareness
 - Reduce noise and focus on relevant risks
-- Build security-oriented automation similar to real SOC / security workflows
+- Build security-oriented automation grounded in real systems
 
 **Key features**
-- NVD official API integration
+- Official NVD API integration
 - Severity-based filtering
 - Persistent state to avoid duplicate alerts
 - Designed for continuous execution (PM2)
@@ -47,30 +63,29 @@ Repository:
 
 ---
 
-## Current Technical Interests
+## Current Focus
 
-- Penetration Testing (entry-level)
-- Linux systems and networking
-- Vulnerability discovery and exploitation basics
-- Automation and scripting for security
-- Security tooling and methodology
-- Lab-based learning (CTFs, practice environments)
+- Systems and infrastructure understanding
+- Linux and Windows security fundamentals
+- Entry-level penetration testing methodology
+- Security automation and scripting
+- Lab-based learning and controlled environments
 
-I focus on understanding **how and why things break**, not just running tools.
+I prioritize **foundations and methodology over tool spamming**.
 
 ---
 
 ## Career Direction
 
-My goal is to start my professional career in **cybersecurity**, ideally in roles such as:
-- Junior Penetration Tester
-- Entry-level Security Analyst
-- Technical IT roles with a security focus
+My goal is to start in **cybersecurity roles where strong system knowledge is valued**, such as:
+- Junior Pentester (entry-level)
+- Security-focused IT / Systems roles
+- Security operations roles with a technical systems focus
 
-In the medium term, I want to specialize further in:
+In the medium term, I aim to specialize in:
 - Offensive security
-- Automated security workflows
-- Methodology-driven pentesting
+- Infrastructure-focused penetration testing
+- Automation applied to security workflows
 
 ---
 
